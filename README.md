@@ -9,6 +9,8 @@ This repo is to be only shared by Wisdm and should not be openly distributed.
   b. Twitter: https://developer.twitter.com/en/docs/twitter-api 
   c. SEC: https://sec-api.io/ 
 3. Package manager (e.g. Anaconda, PIP)
+- Run "pip install -r requirements.txt" to install all required modules. 
+
 
 
 # Clustering 
@@ -23,3 +25,6 @@ Folder contains scriptd and notebook for data extraction for sources:
 
 # Machine Learning 
 Folder contains code using HuggingFace transformers to conduct sentinent analysis. 
+
+
+
