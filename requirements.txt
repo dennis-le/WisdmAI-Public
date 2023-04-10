@@ -1,0 +1,17 @@
+numpy 
+sklearn 
+matplotlib
+seaborn 
+tweepy 
+json
+pandas 
+datetime
+preprocesser 
+regex
+time
+configparser 
+praw 
+sec-api 
+requests 
+transformers 
+scipy 
