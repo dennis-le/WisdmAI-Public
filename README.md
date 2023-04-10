@@ -23,7 +23,7 @@ Folder contains scriptd and notebook for data extraction for sources:
 3. SEC API
 4. SEC EDGAR (coming soon...) 
 
-# Machine Learninghttps://github.com/dennis-le/WisdmAI-Public
+# Machine Learning
 Folder contains code using HuggingFace transformers to conduct sentinent analysis. 
 
 
